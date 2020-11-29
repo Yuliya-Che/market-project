@@ -14,7 +14,7 @@ homeSection.insertAdjacentHTML("afterbegin", homeTitle);
 
 const homeContent = document.createElement("p");
 const content =
-  " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, esseratione explicabo totam repudiandae asperiores enim deserunt magni auteos deleniti iure sed, praesentium neque nesciunt minus ipsum veniam";
+  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, esseratione explicabo totam repudiandae asperiores enim deserunt magni auteos deleniti iure sed, praesentium neque nesciunt minus ipsum veniam";
 homeContent.textContent = content;
 
 const title = document.querySelector(".homeTitle");
